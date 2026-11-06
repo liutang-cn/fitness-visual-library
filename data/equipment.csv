@@ -1,0 +1,64 @@
+﻿id,category,name_zh,name_en,kind,tag,clue,file,type
+EQ001,自由重量,哑铃,Dumbbells,dumbbells,small weights,两端是成对配重；固定器械区里通常按重量成排摆放。,assets/equipment/01_哑铃_dumbbells.svg,通用器械示意图 / Generic equipment illustration
+EQ002,自由重量,壶铃,Kettlebells,kettlebell,small weights,球形或钟形配重，上方带一个整体把手。,assets/equipment/02_壶铃_kettlebells.svg,通用器械示意图 / Generic equipment illustration
+EQ003,杠铃与杠铃片,EZ 曲杆,EZ Curl Bar,ezbar,bar & plates,握持段呈波浪弯曲，和直杠外形区别明显。,assets/equipment/03_EZ 曲杆_ez-curl-bar.svg,通用器械示意图 / Generic equipment illustration
+EQ004,杠铃与杠铃片,奥林匹克杠铃,Olympic Barbell,olympicbar,bar & plates,长直杆两端有较粗的套筒，可装大孔杠铃片。,assets/equipment/04_奥林匹克杠铃_olympic-barbell.svg,通用器械示意图 / Generic equipment illustration
+EQ005,杠铃与杠铃片,标准杠铃,Standard Barbell,standardbar,bar & plates,直杆两端较细，常见于轻型或家用套装；和奥林匹克杆的套筒规格不同。,assets/equipment/05_标准杠铃_standard-barbell.svg,通用器械示意图 / Generic equipment illustration
+EQ006,杠铃与杠铃片,六角杠 / 陷阱杠,Trap Bar,trapbar,bar & plates,杠身是六边形或菱形，人站在框内握住两侧把手。,assets/equipment/06_六角杠_陷阱杠_trap-bar.svg,通用器械示意图 / Generic equipment illustration
+EQ007,杠铃与杠铃片,杠铃片,Weight Plates,plates,bar & plates,中心孔套在杠铃或器械的插片杆上；不同直径和孔径并存。,assets/equipment/07_杠铃片_weight-plates.svg,通用器械示意图 / Generic equipment illustration
+EQ008,训练凳与训练架,可调节训练凳,Adjustable Bench,adjustablebench,benches & racks,靠背角度可调；通常可以平放、上斜，有些型号也能下斜。,assets/equipment/08_可调节训练凳_adjustable-bench.svg,通用器械示意图 / Generic equipment illustration
+EQ009,训练凳与训练架,平板训练凳,Flat Bench,flatbench,benches & racks,整张靠垫保持水平，不带角度调节结构。,assets/equipment/09_平板训练凳_flat-bench.svg,通用器械示意图 / Generic equipment illustration
+EQ010,训练凳与训练架,可调下斜训练凳,Adjustable Decline Bench,declinebench,benches & racks,靠垫向下倾斜，常带脚踝固定滚垫。,assets/equipment/10_可调下斜训练凳_adjustable-decline-bench.svg,通用器械示意图 / Generic equipment illustration
+EQ011,训练凳与训练架,奥林匹克平板卧推架,Olympic Flat Bench,olympicflat,benches & racks,平凳与两侧杠铃托架连在一体；不是单独的平板凳。,assets/equipment/11_奥林匹克平板卧推架_olympic-flat-bench.svg,通用器械示意图 / Generic equipment illustration
+EQ012,训练凳与训练架,奥林匹克上斜卧推架,Olympic Incline Bench,olympicincline,benches & racks,斜靠背配固定杠铃托架，整体比可调训练凳更像一体机。,assets/equipment/12_奥林匹克上斜卧推架_olympic-incline-bench.svg,通用器械示意图 / Generic equipment illustration
+EQ013,训练凳与训练架,奥林匹克下斜卧推架,Olympic Decline Bench,olympicdecline,benches & racks,下斜靠垫配杠铃托架，通常带脚踝固定垫。,assets/equipment/13_奥林匹克下斜卧推架_olympic-decline-bench.svg,通用器械示意图 / Generic equipment illustration
+EQ014,训练凳与训练架,牧师凳,Preacher Curl Bench,preacherbench,benches & racks,前方有一块宽斜垫作为手臂支撑，通常配独立座椅。,assets/equipment/14_牧师凳_preacher-curl-bench.svg,通用器械示意图 / Generic equipment illustration
+EQ015,训练凳与训练架,背伸凳 / 罗马椅,Hyperextension Bench,hyperbench,benches & racks,斜垫和脚踝固定滚垫组成，常见 45 度角支撑架。,assets/equipment/15_背伸凳_罗马椅_hyperextension-bench.svg,通用器械示意图 / Generic equipment illustration
+EQ016,训练凳与训练架,引体、双杠与抬膝综合架,"Chin Up, Dip & Leg Raise Station",dipstation,benches & racks,上方有引体把手，中间有双杠把手和背垫/肘垫。,assets/equipment/16_引体、双杠与抬膝综合架_chin-up-dip-leg-raise-station.svg,通用器械示意图 / Generic equipment illustration
+EQ017,训练凳与训练架,史密斯机,Smith Machine,smith,benches & racks,杠铃沿两根导轨上下移动，立柱上有安全挂钩。,assets/equipment/17_史密斯机_smith-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ018,训练凳与训练架,深蹲架 / 力量架,Power Rack,rack,benches & racks,四根立柱围成框架，配安全杆与多档挂钩；外观不同于史密斯机的导轨杠。,assets/equipment/18_深蹲架_力量架_power-rack.svg,通用器械示意图 / Generic equipment illustration
+EQ019,滑轮与拉力器,单侧可调滑轮,Adjustable Pulley,singlepulley,cable machines,一根立柱配配重片和可上下调节的滑轮。,assets/equipment/19_单侧可调滑轮_adjustable-pulley.svg,通用器械示意图 / Generic equipment illustration
+EQ020,滑轮与拉力器,双侧可调滑轮 / 龙门架,Dual Adjustable Pulley,crossover,cable machines,两根带配重的立柱相对摆放，中间留出训练空间。,assets/equipment/20_双侧可调滑轮_龙门架_dual-adjustable-pulley.svg,通用器械示意图 / Generic equipment illustration
+EQ021,滑轮与拉力器,坐姿划船机,Cable Row Machine,cable-row,cable machines,坐垫前有脚踏板和低位拉索；配重塔通常在侧后方。,assets/equipment/21_坐姿划船机_cable-row-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ022,滑轮与拉力器,高位下拉机,Lat Pulldown Machine,latpulldown,cable machines,高位滑轮配长横杆，下方有座椅和大腿固定垫。,assets/equipment/22_高位下拉机_lat-pulldown-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ023,固定配重器械,站姿多功能飞鸟机,Standing Multi Flight,multiflight,weight machines,两侧可调拉索围绕中间开放空间布置，常用于多方向拉索训练。,assets/equipment/23_站姿多功能飞鸟机_standing-multi-flight.svg,通用器械示意图 / Generic equipment illustration
+EQ024,固定配重器械,腹肌训练机,Abdominal Machine,abmachine,weight machines,有靠背、座垫和前方握把/滚垫，主架连接配重塔。,assets/equipment/24_腹肌训练机_abdominal-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ025,固定配重器械,髋外展机,Hip Abduction Machine,hipabduction,weight machines,坐姿并将大腿靠在两侧垫块外侧；同一器械常兼有内收功能。,assets/equipment/25_髋外展机_hip-abduction-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ026,固定配重器械,髋内收机,Hip Adduction Machine,hipadduction,weight machines,坐姿并将大腿靠在两侧垫块内侧；外观常与髋外展机相近。,assets/equipment/26_髋内收机_hip-adduction-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ027,固定配重器械,辅助引体 / 双杠机,Assisted Pull-Up / Dip Machine,assisted,weight machines,带可升降膝垫或踏板，旁边有引体/双杠把手和配重塔。,assets/equipment/27_辅助引体_双杠机_assisted-pull-up-dip-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ028,固定配重器械,二头弯举机,Biceps Curl Machine,bicepsmachine,weight machines,座椅前方有斜置手臂垫与握把，通常连配重塔。,assets/equipment/28_二头弯举机_biceps-curl-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ029,固定配重器械,小腿训练机,Calf Machine,calfmachine,weight machines,座椅或肩垫、脚踏板与脚踝滚垫组合；不同型号姿态差异较大。,assets/equipment/29_小腿训练机_calf-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ030,固定配重器械,坐姿胸推机,Chest Press Machine,chestpress,weight machines,靠背座椅两侧有向前推的握把，配重塔与机架相连。,assets/equipment/30_坐姿胸推机_chest-press-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ031,固定配重器械,夹胸 / 后束飞鸟机,Pec Fly / Rear Delt Machine,pecfly,weight machines,座椅两侧有可转动的长臂/肘垫，部分机型可反向使用。,assets/equipment/31_夹胸_后束飞鸟机_pec-fly-rear-delt-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ032,固定配重器械,臀推机,Hip Thrust Machine,hipthrust,weight machines,有靠背或肩背垫、臀部支撑位和可旋转的髋部压垫。,assets/equipment/32_臀推机_hip-thrust-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ033,固定配重器械,腿屈伸机,Leg Extension Machine,legextension,weight machines,坐姿，膝前下方有一根可转动的腿垫滚轴。,assets/equipment/33_腿屈伸机_leg-extension-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ034,固定配重器械,俯卧腿弯举机,Lying Leg Curl Machine,lyingcurl,weight machines,俯卧长垫床，脚踝端有滚轴，配重塔位于一端。,assets/equipment/34_俯卧腿弯举机_lying-leg-curl-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ035,固定配重器械,坐姿腿弯举机,Seated Leg Curl Machine,seatedcurl,weight machines,有靠背座椅、大腿压垫和小腿滚轴。,assets/equipment/35_坐姿腿弯举机_seated-leg-curl-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ036,固定配重器械,45 度腿举机,45-Degree Leg Press,legpress,weight machines,座椅和脚踏板沿斜轨布置；部分型号使用插片配重，部分使用配重塔。,assets/equipment/36_45 度腿举机_45-degree-leg-press.svg,通用器械示意图 / Generic equipment illustration
+EQ037,固定配重器械,哈克深蹲机,Hack Squat Machine,hacksquat,weight machines,斜向滑轨配肩垫、靠背和脚踏板；常带装片杆。,assets/equipment/37_哈克深蹲机_hack-squat-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ038,固定配重器械,背部伸展机,Back Extension Machine,backextension,weight machines,坐姿靠背或前倾支撑垫连接阻力臂/配重塔。,assets/equipment/38_背部伸展机_back-extension-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ039,固定配重器械,三头肌推压机,Triceps Press Machine,tricepspress,weight machines,坐姿靠背配侧边握把，手臂伸展方向的固定器械。,assets/equipment/39_三头肌推压机_triceps-press-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ040,插片式器械,插片式平板胸推机,Plate-Loaded Flat Chest Press,platechest,plate-loaded machines,两侧杠杆臂各有插片杆，座椅和靠背位于中间。,assets/equipment/40_插片式平板胸推机_plate-loaded-flat-chest-press.svg,通用器械示意图 / Generic equipment illustration
+EQ041,插片式器械,插片式下斜胸推机,Plate-Loaded Decline Chest Press,platedecline,plate-loaded machines,斜置靠背配向前推的杠杆臂，阻力片挂在两侧。,assets/equipment/41_插片式下斜胸推机_plate-loaded-decline-chest-press.svg,通用器械示意图 / Generic equipment illustration
+EQ042,插片式器械,高位划船机,Plate-Loaded High Row,highrow,plate-loaded machines,高位把手和胸垫/座椅组合，侧边可加载杠铃片。,assets/equipment/42_高位划船机_plate-loaded-high-row.svg,通用器械示意图 / Generic equipment illustration
+EQ043,插片式器械,插片式上斜推胸机,Plate-Loaded Incline Press,plateincline,plate-loaded machines,上斜靠背和前推把手，杠杆臂两侧带插片杆。,assets/equipment/43_插片式上斜推胸机_plate-loaded-incline-press.svg,通用器械示意图 / Generic equipment illustration
+EQ044,插片式器械,片装硬拉训练机,Deadlift Trap Machine,deadliftmachine,plate-loaded machines,低位可握把手与两侧装片杠杆组成，具体结构会因品牌而异。,assets/equipment/44_片装硬拉训练机_deadlift-trap-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ045,插片式器械,V 型深蹲机,Plate-Loaded V-Squat,vsquat,plate-loaded machines,肩背垫与脚踏平台沿弧形/斜轨移动，通常两侧装片。,assets/equipment/45_V 型深蹲机_plate-loaded-v-squat.svg,通用器械示意图 / Generic equipment illustration
+EQ046,插片式器械,T 型杠划船机,T-Bar Row Machine,tbarrow,plate-loaded machines,一端固定转轴，另一端有把手和胸垫/脚踏板。,assets/equipment/46_T 型杠划船机_t-bar-row-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ047,插片式器械,坐姿二头弯举机,Seated Biceps Curl Machine,preacher-machine,plate-loaded machines,座椅前方有斜臂垫和弯举握把，阻力由杠杆臂或配重提供。,assets/equipment/47_坐姿二头弯举机_seated-biceps-curl-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ048,插片式器械,坐姿侧平举机,Seated Lateral Raise Machine,lateralraise,plate-loaded machines,坐姿，两侧手臂垫/握把随杠杆向外抬起，常见装片结构。,assets/equipment/48_坐姿侧平举机_seated-lateral-raise-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ049,插片式器械,坐姿腿举机,Seated Leg Press,seatedlegpress,plate-loaded machines,坐姿背靠斜垫、正前方大脚踏板，通常两侧装片。,assets/equipment/49_坐姿腿举机_seated-leg-press.svg,通用器械示意图 / Generic equipment illustration
+EQ050,插片式器械,肩推机,Shoulder Press Machine,shoulderpress,plate-loaded machines,靠背座椅两侧有上推把手，常见杠杆臂和装片杆。,assets/equipment/50_肩推机_shoulder-press-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ051,插片式器械,三头肌伸展机,Triceps Extension Machine,tricepsextension,plate-loaded machines,座椅/靠背配侧边杠杆臂，手握把手做伸展轨迹。,assets/equipment/51_三头肌伸展机_triceps-extension-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ052,有氧器械,跑步机,Treadmill,treadmill,cardio,有连续跑带、侧扶手和前方控制台。,assets/equipment/52_跑步机_treadmill.svg,通用器械示意图 / Generic equipment illustration
+EQ053,有氧器械,椭圆机,Elliptical Machine,elliptical,cardio,双脚踏板沿椭圆轨迹移动，常配活动长把手。,assets/equipment/53_椭圆机_elliptical-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ054,有氧器械,室内划船器,Rowing Machine,rowing,cardio,长滑轨、可滑动座垫、脚踏板和拉手；和坐姿划船力量器械不同。,assets/equipment/54_室内划船器_rowing-machine.svg,通用器械示意图 / Generic equipment illustration
+EQ055,有氧器械,楼梯机,Stair Climber,stairclimber,cardio,连续转动的阶梯踏板配扶手和控制台。,assets/equipment/55_楼梯机_stair-climber.svg,通用器械示意图 / Generic equipment illustration
+EQ056,有氧器械,固定自行车,Stationary Bike,bike,cardio,车架固定，带座椅、脚蹬和控制台。,assets/equipment/56_固定自行车_stationary-bike.svg,通用器械示意图 / Generic equipment illustration
+EQ057,小型训练器材,弹力带,Resistance Band,band,accessories,可为环形带，也可为带把手的管状带。,assets/equipment/57_弹力带_resistance-band.svg,通用器械示意图 / Generic equipment illustration
+EQ058,小型训练器材,训练垫,Exercise Mat,mat,accessories,薄型可卷垫；瑜伽垫是常见类型之一。,assets/equipment/58_训练垫_exercise-mat.svg,通用器械示意图 / Generic equipment illustration
+EQ059,小型训练器材,有氧踏板,Aerobic Step,step,accessories,低矮长方踏台，常见可拆高度垫块。,assets/equipment/59_有氧踏板_aerobic-step.svg,通用器械示意图 / Generic equipment illustration
+EQ060,小型训练器材,半球平衡球,Half Ball Trainer,halfbball,accessories,半球形弹性上表面，下面是平底支撑盘。,assets/equipment/60_半球平衡球_half-ball-trainer.svg,通用器械示意图 / Generic equipment illustration
+EQ061,小型训练器材,普拉提球 / 健身球,Pilates Ball,pilatesball,accessories,轻质圆球；健身房里的大小可能与本示意不同。,assets/equipment/61_普拉提球_健身球_pilates-ball.svg,通用器械示意图 / Generic equipment illustration
+EQ062,小型训练器材,腹肌轮,Abdominal Wheel,wheel,accessories,一个或两个轮子配贯穿手柄。,assets/equipment/62_腹肌轮_abdominal-wheel.svg,通用器械示意图 / Generic equipment illustration
+EQ063,小型训练器材,跳箱,Plyometric Box,box,accessories,稳定的立方或长方箱体，健身房常见木箱或软包箱。,assets/equipment/63_跳箱_plyometric-box.svg,通用器械示意图 / Generic equipment illustration
